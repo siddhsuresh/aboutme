@@ -2,8 +2,9 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Siddharth Suresh',
-    description: ' Hi, I’m Siddharth Suresh (@siddhsuresh). I am a 3rd year student studying B.Tech in Computer Science with Specialization in Cyber Physical Systems at Vellore Institute of Technology, Chennai.',
+    title: 'Next.js Blog Starter Kit',
+    description: 'Clone and deploy your own Next.js portfolio in minutes.',
+    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png',
   }
 
   return (
