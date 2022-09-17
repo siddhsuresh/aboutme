@@ -4,7 +4,7 @@ export default {
   footer: (
     <footer>
       <small>
-        <time>{YEAR}</time> © Your Name.
+        <time>{YEAR}</time> © Siddharth Suresh.
       </small>
       <style jsx>{`
         footer {
